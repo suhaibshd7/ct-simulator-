@@ -4,9 +4,8 @@
 
 ---
 
-## ▶ [Open the Simulator →](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)
+## ▶ [Open the Simulator →](https://suhaibshd7.github.io/ct-simulator-/)
 
-*(replace the link above with your GitHub Pages URL after publishing)*
 
 ---
 
