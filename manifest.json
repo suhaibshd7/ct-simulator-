@@ -1,11 +1,11 @@
 {
-  "name": "NexaGen CT Simulator",
-  "short_name": "NexaGen CT",
+  "name": "CTSim",
+  "short_name": "CTSim",
   "description": "Interactive CT protocol training simulator for radiographers",
   "start_url": ".",
   "scope": "/ct-simulator-/",
   "display": "standalone",
-  "orientation": "landscape",
+  "orientation": "any",
   "background_color": "#0d0f12",
   "theme_color": "#0d0f12",
   "icons": [
